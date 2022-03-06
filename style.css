@@ -1,0 +1,18 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background: linear-gradient(#878FE6, #8FE0E6);
+  height: 100%;
+}
+
+h2 {
+  transform: translate(60%, 10%);
+  position:fixed;
+  background:linear-gradient(#BBA8EE,#D6D2E1);
+  border:2px solid black;
+  border-radius:10px;
+
+}
